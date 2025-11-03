@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **AI/ML** and **Web Development Projects**
+- 🔭 Currently working on **gen-AI/agentic-AI ,ML** and **Web Development Projects**
 - 🌱 Learning **React**, **Java Full Stack**, and **Advanced SQL**
 - 💡 Interested in building **automation systems** and **scalable web applications**
 - 🎯 Goal: To combine **technical skills** and **creative thinking** for real-world impact
