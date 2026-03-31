@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Aman Kumar Singh</h1>
-<h3 align="center">💻 Aspiring Software Developer | 🎓 UGC NET Qualified | 🚀 Passionate about AI, Web & Automation</h3>
+<h3 align="center">💻 Aspiring Software Developer | 🎓 UGC NET  & Assistant Professor  Qualified | 🚀 Passionate about AI, Web & Automation</h3>
 
 ---
 
